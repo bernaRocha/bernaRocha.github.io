@@ -15,7 +15,7 @@ let imagensNaTela = {
 }
 
 let frasesNaTela = {
-      0: 'Tem comida faltando aqui', 
+      0: 'Tá faltando comida aqui', 
       1: 'Vai tom* (&&^%$ $$&*', 
       2: 'Tem de mais',
       3: 'Tô numa nice', 
